@@ -2,7 +2,7 @@
     "serverAddress": "123.231.192.68",
     "serverName": "model1225_user_interface",
     "iconName": "Moon-icon.png",
-    "terminalID": "EYE",
+    "terminalID": "@eye",
     "defaultUser": {
         "userId": "user",
         "password": "",
