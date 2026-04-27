@@ -1,5 +1,5 @@
 {
-    "serverAddress": "123.231.192.68",
+    "serverAddress": "localhost",
     "serverName": "model1225_user_interface",
     "iconName": "config/network/localhost/eyeblossom.png",
     "terminalID": "eye",
