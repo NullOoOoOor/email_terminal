@@ -2,7 +2,7 @@
     "serverAddress": "123.231.192.68",
     "serverName": "model1225_user_interface",
     "iconName": "eyeblossom.png",
-    "terminalID": "@eye",
+    "terminalID": "eye",
     "defaultUser": {
         "userId": "user",
         "password": "",
