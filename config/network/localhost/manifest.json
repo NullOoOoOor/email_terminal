@@ -1,13 +1,9 @@
 {
     "serverAddress": "localhost",
     "serverName": "model1225_user_interface",
-    "iconName": "config/network/localhost/eyeblossom.png",
+    "iconName": "eyeblossom.png",
     "terminalID": "eye",
-    "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "nullor"
-    },
+ 
     "initialHistory": {
         "user": [
             "login admin@admin"
