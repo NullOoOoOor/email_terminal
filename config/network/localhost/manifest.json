@@ -4,12 +4,6 @@
     "iconName": "eyeblossom.png",
     "terminalID": "eye",
     
-       "defaultUser": {
-        "userId": "user",
-        "password": "",
-        "userName": "nullor"
-    },
- 
     "initialHistory": {
         "user": [
             "login admin@admin"
