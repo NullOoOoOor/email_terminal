@@ -36,5 +36,7 @@
     },
     "artifact": {},
     "decrypt": {},
-    "identify": {}
+    "identify": {
+        "protection": ["admin"]
+    }
 }
