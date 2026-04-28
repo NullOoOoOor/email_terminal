@@ -1,5 +1,6 @@
 {
     "demo.exe": {
+        "protection": ["admin"],
         "help": "Demonstrate some rendering features",
         "clear": true,
         "message": [
