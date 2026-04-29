@@ -12,6 +12,20 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
+ "cdata.exe": {
+        "protection": ["admin"],
+        "delayed": 2000,
+        "message": [
+            "Corrupting data.",
+            "Corrupting data..",
+            "Corrupting data...",
+            "0% complete",
+            "11% complete",
+            "47% complete",
+            "98% complete",
+            "System successfully corrupted!"
+            ]
+    },
     "target.exe": {
         "protection": ["admin"],
         "location": ["127.0.0.1", "localhost"],
