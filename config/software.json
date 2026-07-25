@@ -12,22 +12,17 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
- "cdata.exe": {
-        "protection": ["admin"],
+ "AD_ASTRA_PER_ASPERA.exe": {
+        "protection": ["fa1se_pr0phet"],
         "delayed": 2000,
         "message": [
-            "Corrupting data.",
-            "Corrupting data..",
-            "Corrupting data...",
-            "0% complete",
-            "11% complete",
-            "47% complete",
-            "98% complete",
-            "System successfully corrupted!"
+            "<p class=glow style='font-size: 3em'>⚠ ВНИМАНИЕ! ⚠</p>",
+            "вы точно хотите начать процедуру?",
+            "YES/NO"
             ]
     },
     "target.exe": {
-        "protection": ["admin"],
+        "protection": ["fa1se_pr0phet"],
         "location": ["127.0.0.1", "localhost"],
         "message": [
             "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
