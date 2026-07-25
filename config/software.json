@@ -12,17 +12,17 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "AD_ASTRA_PER_ASPERA.bat": {
+    "test1.bat": {
         "protection": ["067"],
         "delayed": 2000,
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
             "this programm is dangerous",
             "proceed anyway?",
-            "YES/NO"
+            "yes/no"
         ]
     },
-    "YES": {
+    "yes": {
         "location": ["127.0.0.1", "localhost"],
         "protection": ["067"],
         "delayed": 2000,
@@ -36,7 +36,7 @@
             "<img src=config/maybe.png style='width: 10rem' class=glitch>"
         ]
     },
-    "NO": {
+    "no": {
         "protection": ["067"],
         "delayed": 2000,
         "message": [
