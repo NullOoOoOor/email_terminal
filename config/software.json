@@ -12,26 +12,27 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "cdata.exe": {
+    "AD_ASTRA_PER_ASPERA.bat": {
         "protection": ["067"],
         "delayed": 2000,
         "message": [
-            "Corrupting data.",
-            "Corrupting data..",
-            "Corrupting data...",
-            "0% complete",
-            "11% complete",
-            "47% complete",
-            "98% complete",
-            "System successfully corrupted!"
+            "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
+            "this programm is dangerous",
+            "proceed anyway?",
+            "YES/NO",
         ]
     },
-    "target.exe": {
+    "YES": {
         "location": ["127.0.0.1", "localhost"],
         "protection": ["067"],
+        "delayed": 2000,
         "message": [
-            "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
-            "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
+            "<p class=desync>ᨀᨂᗙᱰᚠᨀᗙᱰቀത ᗥᱰതቀᨀ⩣ ᨁ⩣ተᨂᱟᨀതഡ</p>",
+            "<p class=desync>3..</p>",
+            "<p class=desync>2..</p>",
+            "<p class=desync>1..</p>",
+            "<p class=desync>ᗥᱰതቀᨀ⩣ ᗥᚏᨂᨂഡᗥᗥഢᚏ⩣⩣ម ᨁ⩣ተᨂᱟഡᨃ!</p>",
+            "<p class=desync>មተᚏᐐ ᛥተᐐ⩣ᨃ ᱰᗥ ቀተᛥ ᨃተተሰഡᨃ.</p>"
         ]
     },
     "artifact": {},
