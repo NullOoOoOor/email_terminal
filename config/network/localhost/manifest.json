@@ -2,11 +2,11 @@
     "serverAddress": "localhost",
     "serverName": "it's over",
     "iconName": "maybe.png",
-    "terminalID": "000",
+    "terminalID": "Y56",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "guest"
+        "userName": "anonymous"
     },
     "initialHistory": {
         "user": [
