@@ -1,8 +1,8 @@
 {
     "demo.exe": {
-        "protection": ["admin"],
         "help": "Demonstrate some rendering features",
         "clear": true,
+        "protection": ["fa1se_pr0phet"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
@@ -12,18 +12,23 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "AD_ASTRA_PER_ASPERA.exe": {
+    "cdata.exe": {
         "protection": ["fa1se_pr0phet"],
         "delayed": 2000,
         "message": [
-            "<p class=glow style='font-size: 3em'>⚠ ВНИМАНИЕ! ⚠</p>",
-            "вы точно хотите начать процедуру?",
-            "YES/NO"
+            "Corrupting data.",
+            "Corrupting data..",
+            "Corrupting data...",
+            "0% complete",
+            "11% complete",
+            "47% complete",
+            "98% complete",
+            "System successfully corrupted!"
         ]
     },
     "target.exe": {
+        "location": ["127.0.0.1", "localhost"],
         "protection": ["fa1se_pr0phet"],
-        "location": ["localhost"],
         "message": [
             "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
@@ -31,7 +36,5 @@
     },
     "artifact": {},
     "decrypt": {},
-    "identify": {
-        "protection": ["admin"]
-    }
+    "identify": {}
 }
