@@ -4,22 +4,4 @@
         "password": "trustno1",
         "userName": "Mulder, Fox"
     },
-
-    {
-        "userId": "sheep",
-        "password": "894",
-        "userName": "sheep"
-    },
-
-    {
-        "userId": "067",
-        "password": "89222",
-        "userName": "fa1se_pr0phet"
-    },
-
-    {
-        "userId": "n",
-        "password": "n",
-        "userName": "debug"
-    }
 ]
