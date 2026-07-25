@@ -12,8 +12,9 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "test1.bat": {
+    "ad_astra_per_aspera.bat": {
         "protection": ["067"],
+        "secretCommand": true,
         "delayed": 2000,
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
@@ -25,6 +26,7 @@
     "yes": {
         "location": ["127.0.0.1", "localhost"],
         "protection": ["067"],
+        "secretCommand": true,
         "delayed": 2000,
         "message": [
             "<p class=desync>ᨀᨂᗙᱰᚠᨀᗙᱰቀത ᗥᱰതቀᨀ⩣ ᨁ⩣ተᨂᱟᨀതഡ</p>",
@@ -33,12 +35,13 @@
             "<p class=desync>1..</p>",
             "<p class=desync>ᗥᱰതቀᨀ⩣ ᗥᚏᨂᨂഡᗥᗥഢᚏ⩣⩣ម ᨁ⩣ተᨂᱟഡᨃ!</p>",
             "<p class=desync>មተᚏᐐ ᛥተᐐ⩣ᨃ ᱰᗥ ቀተᛥ ᨃተተሰഡᨃ.</p>",
-            "<img src=config/maybe.png style='width: 10rem' class=glitch>"
+            "<img src=config/maybe.png style='width: 20rem' class=glitch>"
         ]
     },
     "no": {
         "protection": ["067"],
         "delayed": 2000,
+        "secretCommand": true,
         "message": [
             "programm canceled!"
         ]
