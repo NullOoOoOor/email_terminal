@@ -12,14 +12,14 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
- "AD_ASTRA_PER_ASPERA.exe": {
+    "AD_ASTRA_PER_ASPERA.exe": {
         "protection": ["fa1se_pr0phet"],
         "delayed": 2000,
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ВНИМАНИЕ! ⚠</p>",
             "вы точно хотите начать процедуру?",
             "YES/NO"
-            ]
+        ]
     },
     "target.exe": {
         "protection": ["fa1se_pr0phet"],
