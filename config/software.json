@@ -36,6 +36,14 @@
             "<img src=config/maybe.png class=particle data-particules=2000>"
         ]
     },
+    "NO": {
+        "protection": ["067"],
+        "delayed": 2000,
+        "message": [
+            "programm canceled!"
+        ]
+    },
+    
     "artifact": {},
     "decrypt": {},
     "identify": {}
