@@ -33,7 +33,7 @@
             "<p class=desync>1..</p>",
             "<p class=desync>ᗥᱰതቀᨀ⩣ ᗥᚏᨂᨂഡᗥᗥഢᚏ⩣⩣ម ᨁ⩣ተᨂᱟഡᨃ!</p>",
             "<p class=desync>មተᚏᐐ ᛥተᐐ⩣ᨃ ᱰᗥ ቀተᛥ ᨃተተሰഡᨃ.</p>",
-            "<img src=maybe.png class=particle data-particules=2000>"
+            "<img src=config/maybe.png class=particle data-particules=2000>"
         ]
     },
     "artifact": {},
