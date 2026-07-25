@@ -2,7 +2,7 @@
     "demo.exe": {
         "help": "Demonstrate some rendering features",
         "clear": true,
-        "protection": ["fa1se_pr0phet"],
+        "protection": ["067"],
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ ACHTUNG ⚠</p>",
             "<p class=desync>SHADY TROUBLING MESSAGE</p>",
@@ -13,7 +13,7 @@
         ]
     },
     "cdata.exe": {
-        "protection": ["fa1se_pr0phet"],
+        "protection": ["067"],
         "delayed": 2000,
         "message": [
             "Corrupting data.",
@@ -28,7 +28,7 @@
     },
     "target.exe": {
         "location": ["127.0.0.1", "localhost"],
-        "protection": ["fa1se_pr0phet"],
+        "protection": ["067"],
         "message": [
             "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
