@@ -13,7 +13,7 @@
         ]
     },
     "ad_astra_per_aspera.bat": {
-        "protection": ["067"],
+        "protection": ["sheep"],
         "secretCommand": true,
         "clear": true,
         "delayed": 2000,
@@ -26,7 +26,7 @@
     },
     "yes": {
         "location": ["127.0.0.1", "localhost"],
-        "protection": ["067"],
+        "protection": ["sheep"],
         "secretCommand": true,
         "delayed": 2000,
         "message": [
@@ -40,7 +40,7 @@
         ]
     },
     "no": {
-        "protection": ["067"],
+        "protection": ["sheep"],
         "delayed": 2000,
         "secretCommand": true,
         "message": [
