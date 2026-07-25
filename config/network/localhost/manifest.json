@@ -1,12 +1,12 @@
 {
     "serverAddress": "localhost",
-    "serverName": "it's over",
-    "iconName": "maybe.png",
-    "terminalID": "Y56",
+    "serverName": "Model_1225_console",
+    "iconName": "eyeblossom.png",
+    "terminalID": "000",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "guest"
     },
     "initialHistory": {
         "user": [
