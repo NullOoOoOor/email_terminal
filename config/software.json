@@ -12,41 +12,6 @@
             "<img src=hacker.jpg class=particle data-particules=2000>"
         ]
     },
-    "ad_astra_per_aspera.bat": {
-        "protection": ["sheep"],
-        "secretCommand": true,
-        "clear": true,
-        "delayed": 2000,
-        "message": [
-            "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
-            "this programm is dangerous",
-            "proceed anyway?",
-            "yes/no"
-        ]
-    },
-    "yes": {
-        "location": ["127.0.0.1", "localhost"],
-        "protection": ["sheep"],
-        "secretCommand": true,
-        "delayed": 2000,
-        "message": [
-            "<p class=desync>ᨀᨂᗙᱰᚠᨀᗙᱰቀത ᗥᱰതቀᨀ⩣ ᨁ⩣ተᨂᱟᨀതഡ</p>",
-            "<p class=desync>3..</p>",
-            "<p class=desync>2..</p>",
-            "<p class=desync>1..</p>",
-            "<p class=desync>ᗥᱰതቀᨀ⩣ ᗥᚏᨂᨂഡᗥᗥഢᚏ⩣⩣ម ᨁ⩣ተᨂᱟഡᨃ!</p>",
-            "<p class=desync>មተᚏᐐ ᛥተᐐ⩣ᨃ ᱰᗥ ቀተᛥ ᨃተተሰഡᨃ.</p>",
-            "<img src=config/maybe.png style='width: 20rem' class=glitch>"
-        ]
-    },
-    "no": {
-        "protection": ["sheep"],
-        "delayed": 2000,
-        "secretCommand": true,
-        "message": [
-            "programm canceled!"
-        ]
-    },
     "artifact": {},
     "decrypt": {},
     "identify": {}
