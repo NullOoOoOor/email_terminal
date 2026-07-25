@@ -15,6 +15,7 @@
     "ad_astra_per_aspera.bat": {
         "protection": ["067"],
         "secretCommand": true,
+        "clear": true,
         "delayed": 2000,
         "message": [
             "<p class=glow style='font-size: 3em'>⚠ WARNING ⚠</p>",
